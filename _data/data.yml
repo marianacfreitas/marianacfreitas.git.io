@@ -18,6 +18,7 @@ sidebar:
   timezone: France # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
   citizenship: Brazil and Italy
   website: https://marianacfreitas.github.io/Portfolio_Mariana_Freitas/ # Include the full website URL, including "http://" or "https://".
+  card: https://github.com/marianacfreitas/my-business-card/blob/main/card.pdf
   linkedin: 
   xing: 
   github: marianacfreitas
@@ -32,7 +33,6 @@ sidebar:
   mastodon: # Please include your full Mastodon link here.
   hackerrank: # Please provide your HackerRank username.
   leetcode: # Please provide your LeetCode username.
-  pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
 
   languages:
     title: Languages
